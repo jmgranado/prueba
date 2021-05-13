@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <string.h>
+#include <string.h>//asda sdasd asd asd 
 #include <math.h>
 #include <CL/cl.h>//asdasdasd
 
