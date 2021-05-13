@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
-#include <CL/cl.h>
+#include <CL/cl.h>//asdasdasd
 
 cl_uint ObtenerPlataformas(cl_platform_id *&platform_ids, cl_uint &num_platforms) {
 	cl_uint err, i;
